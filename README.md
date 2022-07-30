@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Screenshots
 
-| ![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-07-30 at 22 38 55](https://user-images.githubusercontent.com/56762634/181997148-8ed081a5-1525-4261-986b-7b338b712ee2.png)  | ![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-07-30 at 22 38 59](https://user-images.githubusercontent.com/56762634/181997157-fcf2fe75-8f27-4844-877e-3a3a44385da5.png) |
+|  ![Simulator Screen Shot - iPhone 13 - 2022-07-30 at 22 53 04](https://user-images.githubusercontent.com/56762634/181998332-f4ab7a66-a287-4831-b426-1a0d7fbc9d67.png) | ![Simulator Screen Shot - iPhone 13 - 2022-07-30 at 22 53 08](https://user-images.githubusercontent.com/56762634/181998470-ff624c67-46bc-4fa8-a716-3ddedc410e29.png) |
 | ------------- | ------------- |
 
-| ![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-07-30 at 22 39 14](https://user-images.githubusercontent.com/56762634/181997164-4c0eef4a-aaf4-4930-b685-29be0b1bd718.png)  | ![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-07-30 at 22 39 18](https://user-images.githubusercontent.com/56762634/181997170-fb4803fa-abe6-4f8d-93b6-de92d34bace9.png)  |  ![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-07-30 at 22 39 22](https://user-images.githubusercontent.com/56762634/181997177-3e24a04b-38e0-4091-b1f6-6b7176ae57a6.png) |
+| ![Simulator Screen Shot - iPhone 13 - 2022-07-30 at 22 53 14](https://user-images.githubusercontent.com/56762634/181998562-95092826-0d52-4f1e-8972-5fe41c0e3491.png)  |  ![Simulator Screen Shot - iPhone 13 - 2022-07-30 at 22 53 17](https://user-images.githubusercontent.com/56762634/181998650-e9e150f8-f122-4f87-af7c-f85b93e31e06.png) |  ![Simulator Screen Shot - iPhone 13 - 2022-07-30 at 22 53 20](https://user-images.githubusercontent.com/56762634/181998717-db81e648-992e-4a26-9cba-9fc9bcaea98b.png) |
 | ------------- | ------------- | ------------- |
